@@ -19,4 +19,5 @@ cout << "Halo class d" << endl;
 cout << 19 << endl;
 cout << age;
 cout << age1;
+cout << age2;
 }
