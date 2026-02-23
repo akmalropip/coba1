@@ -16,6 +16,7 @@ age2 = 20;
 cout << "Halo world" << endl;
 cout << 99 << endl;
 cout << "Halo class d" << endl;
+cout << 19 << endl;
 cout << age;
 cout << age1;
 }
