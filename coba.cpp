@@ -13,6 +13,7 @@ age = 20;
 age1 = 15;
 age2 = 20;
 
+cout << "Welcome" << endl;
 cout << "Halo world" << endl;
 cout << 99 << endl;
 cout << "Halo class d" << endl;
